@@ -1,2 +1,2 @@
 # Python-Basic-Projects
-The projects are really simple and interesting - suitable for python beginners 🐍
+The projects are really simple and interesting - suitable for every python beginner 🐍
